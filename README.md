@@ -18,16 +18,16 @@ To get started, clone this repository and compile the Java code. Here's how you 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cricket-game.git
+git clone https://github.com/MONISH2502/Hand-Cricket.git
 
 # Navigate to the project directory
-cd cricket-game
+cd Hand-Cricket
 
 # Compile the Java file
-javac ownhc.java
+javac Cricket.java
 
 # Run the game
-java ownhc
+java Cricket
 
 ```
 ## 📌 Note
